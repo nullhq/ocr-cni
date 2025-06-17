@@ -285,7 +285,7 @@ werkzeug==2.0.1
 #### 9.2 Interface de chargement de la CNI
 ![](./preview/charger_cni.png)
 #### 9.3 Interface avec la CNI déja chargé
-![](./preview/cni_deja_chargé.png)
+![](./preview/cni_deja_charge.png)
 
 
 ## 10. Conclusion
