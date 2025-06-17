@@ -298,3 +298,11 @@ Ce système fournit une solution fonctionnelle pour l'extraction automatique des
 1. Exemples d'images de CNI Camerounaises
 2. Résultats de tests détaillés  
 3. Captures d'écran de l'interface (si disponible)
+
+___
+
+**Ressources**
+1. https://github.com/JaidedAI/EasyOCR
+2. https://flask.palletsprojects.com/en/stable/api/
+3. https://fr.wikipedia.org/wiki/JavaScript_Object_Notation
+4. https://pytorch.org/
