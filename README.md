@@ -11,7 +11,7 @@ Ce projet a pour objectif de développer un système OCR (Optical Character Reco
 1. **API Flask**: Serveur backend qui reçoit les images et retourne les données structurées
 2. **EasyOCR**: Moteur de reconnaissance optique de caractères
 3. **Module de traitement**: Logique de transformation du texte brut en données structurées
-4. **Interface client**: Application frontend (non couverte dans cette documentation)
+4. **Interface client**: Application frontend (avec des prévisualisations dans cette documentation)
 
 ### 2.2. Schéma d'architecture
 
