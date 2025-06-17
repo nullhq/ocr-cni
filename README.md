@@ -11,7 +11,7 @@ Ce projet a pour objectif de développer un système OCR (Optical Character Reco
 1. **API Flask**: Serveur backend qui reçoit les images et retourne les données structurées
 2. **EasyOCR**: Moteur de reconnaissance optique de caractères
 3. **Module de traitement**: Logique de transformation du texte brut en données structurées
-4. **Interface client**: Application frontend (non couverte dans cette documentation)
+4. **Interface client**: Application frontend (avec des prévisualisations dans cette documentation)
 
 ### 2.2. Schéma d'architecture
 
@@ -298,3 +298,11 @@ Ce système fournit une solution fonctionnelle pour l'extraction automatique des
 1. Exemples d'images de CNI Camerounaises
 2. Résultats de tests détaillés  
 3. Captures d'écran de l'interface (si disponible)
+
+___
+
+**Ressources**
+1. https://github.com/JaidedAI/EasyOCR
+2. https://flask.palletsprojects.com/en/stable/api/
+3. https://fr.wikipedia.org/wiki/JavaScript_Object_Notation
+4. https://pytorch.org/
